@@ -1,0 +1,15 @@
+.boss-img {
+    height: 500px;
+    width: 600px;
+    cursor: pointer;
+}
+
+.charImg {
+    height: 200px;
+    width: 150px;
+}
+body{
+    background-color: lightgray;
+    font-family: 'Press Start 2P', cursive;
+}
+
